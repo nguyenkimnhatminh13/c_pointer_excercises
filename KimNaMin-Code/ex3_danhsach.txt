@@ -1,0 +1,32 @@
+Ho ten: Nguyen Thai An
+Gioi tinh: Nu
+Tuoi: 17
+Diem Toan: 9
+Diem Ly: 8.5
+Diem Hoa: 6
+Diem Trung Binh: 7.83333
+---------------------------
+Ho ten: Hoa Thanh Dat
+Gioi tinh: Nam
+Tuoi: 20
+Diem Toan: 10
+Diem Ly: 9.5
+Diem Hoa: 9
+Diem Trung Binh: 9.5
+---------------------------
+Ho ten: Nguyen Kim Nhat Minh
+Gioi tinh: Nam
+Tuoi: 18
+Diem Toan: 9
+Diem Ly: 10
+Diem Hoa: 9
+Diem Trung Binh: 9.33333
+---------------------------
+Ho ten: Tu Lam Phuong
+Gioi tinh: Nu
+Tuoi: 19
+Diem Toan: 9.5
+Diem Ly: 8
+Diem Hoa: 8.5
+Diem Trung Binh: 8.66667
+---------------------------
