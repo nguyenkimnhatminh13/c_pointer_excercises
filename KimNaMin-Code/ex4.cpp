@@ -28,7 +28,7 @@ int main()
     }
     int oNho = 0x00000;
     int dem = 0;
-    int a = 0x0d; int b = 0x0a;
+    char a = 0x0d; char b = 0x0a;
     //cout << "0: ";
     for (const auto &i : lines){
         for(int x = 0;x < i.length();x++){
@@ -52,7 +52,8 @@ int main()
             cout << endl;
             printf("%x: ",oNho);
             printf("%x ",i);
-            dem = 0;
+            dem = 1;
+            oNho++;
         }
     }
 
